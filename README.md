@@ -1,3 +1,5 @@
+Try it on: https://yolokys-earcondition-detection.hf.space/
+
 Results: 
 
 Mean Average Precision (mAP@0.5:0.95): 0.942
@@ -9,4 +11,3 @@ Precision: 0.999
 Recall: 1.000
 
 
-Deployed at: https://yolokys-earcondition-detection.hf.space/
